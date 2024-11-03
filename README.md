@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on a Masters degree in Data Anaylysis.
+I'm fascinated with all data related to basketball.
+My favorite workouts are running and surfing.
